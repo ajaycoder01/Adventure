@@ -1,0 +1,629 @@
+
+                     /* max-width: 576px */
+
+                     @media (max-width: 576px){ 
+    
+                        .navbar-collapse {
+                            padding-left:0px !important;
+                            }
+                            .list li a {
+                                font-size: 15px !important;
+                                padding: 8px 0px !important;
+                            }
+                            .adv{
+                                bottom: 100px !important;
+                                top:-130px !important;
+                                letter-spacing: 1px !important;
+                                display: block!important;
+                                height:0px;
+                                left: 5px;
+                            }
+                            .carousel-caption{
+                                padding: 0px !important;
+                            }
+                            .adv h1{
+                                font-weight: bold;
+                                font-size: 18px !important;
+                            }
+                            .adv p{
+                                font-size: 8px !important;
+                            }
+                            .adv button{
+                                background-color: #ec4848;
+                                font-size: 6px !important;
+                                border:none;
+                                color: white;
+                                padding: 7px 10px !important;
+                                margin-top: 8px;
+                            }
+                           
+                        .text{
+                            padding: 0 12px;
+                            margin-top: 25px !important;
+                           }
+                        .text h1{
+                           font-size:25px ;
+                           margin-bottom: 20px ;
+                        }
+                        .text p{
+                            font-size: 14px;
+                        }
+                        .card-header button{
+                            font-size: 15px;
+                        }
+                        .accordion{
+                         margin-bottom: 15px;
+                        }
+                        .service{
+                            margin-bottom: 15px;
+                        }
+                        .service h3{
+                            font-size: 18px !important;
+                        }
+                        .service p{
+                            font-size: 14px !important;
+                        }
+                        .join{
+                            padding: 15px 0px;
+                            margin-top: 35px !important;
+                        }
+                        .join p{
+                            font-size: 14px;
+                        }
+                        .fa-user-plus{
+                            font-size: 40px;
+                            margin-bottom: 15px;
+                        }
+                        .join h1{
+                            margin-bottom: 15px;
+                            font-size: 20px;
+                        }
+                        .service button{
+                            font-size: 12px;
+                            padding: 0px !important;
+                        }
+                        .progress{
+                            margin-bottom: 10px !important;
+                         }
+                         .pr{
+                            font-size: 14px;
+                        }
+                        .heading2 {
+                            margin-top: 40px !important;
+                            margin-bottom: 20px !important;
+                            padding:0px 20px ;
+                        }
+                        .heading2 h2{
+                            font-size: 26px !important;
+                        }
+                        .heading3{
+                            margin-top: 40px;
+                        }
+                        .heading3 h2{
+                            font-size: 26px;
+                        }
+                        #testimonial p {
+                            font-size: 14px;
+                          
+                        }
+                        #testimonial .carousel-content {
+                            padding: 0px 0px 20px 0px;
+                            width: 100%;
+                        }
+                        .city{
+                            background-size: cover;
+                            padding: 30px 40px 25px ;
+                            margin-top: 35px;
+                        }
+                        .offer{
+                            margin-top: -20px !important;
+                        }
+                        .off_area{
+                            margin-bottom: 7px !important;
+                        }
+                        
+                        .clm{
+                            margin-bottom: 20px;
+                        }
+                        .heading2 h3{
+                            margin-bottom: 10px;
+                            padding: 0px;
+                            font-size: 25px;
+                        }
+                        .heading2 p{
+                            font-size: 15px;
+                        }
+                       
+                        .main{
+                            margin-bottom: 7px;
+                        }
+                        .team{
+                            margin-top: 30px;
+                        }
+                        .overlay{
+                            padding: 8px !important;
+                            height: 25% !important;
+                            font-size: 15px !important;
+                        }
+                        .overlay h2{
+                            font-size: 20px !important;
+                            margin-bottom: 10px !important;
+                          }
+                          .overlay p{
+                            font-size: 15px !important;
+                          }
+                          .overlay i{
+                            padding:  8px 10px 0px !important;
+                            font-size: 20px !important;
+                            line-height: 7px !important;
+                          }
+                          .imagearea img{
+                            width: 100%;
+                          }
+                          .overlay2{
+                            width: 100%;
+                          }
+                          .heading5{
+                            padding:0px 35px ;
+                            margin-top: 40px;
+                        }
+                        .heading5 h3{
+                            margin-bottom: 10px;
+                            padding: 0px;
+                            font-size: 25px;
+                        }
+                        .heading5 p{
+                            font-size: 15px !important;
+                            text-align: justify;
+                        }
+                        #h1{
+                            font-size: 28px;
+                            margin-bottom: 10px !important;
+                        }
+                         .bttn{
+                            margin-top: 0px !important;
+                            padding-top: 0px !important;
+                           margin-bottom: -20px;
+                           /* text-align: left !important; */
+                           font-size: 8px !important;
+                        }
+                        .bttn button{
+                            font-size: 15px;
+                            border: none;
+                        }
+                         .filter-button{
+                            border: none;
+                            font-size: 15px;
+                            margin-bottom: 20px;
+                        }
+                        .filter-button:hover{
+                            font-size: 15px;
+                        }
+                       .logo{
+                        margin-bottom: 30px;
+                       }
+                       .subscribe{
+                        font-size: 14px !important;
+                        line-height: 10px;
+                       }
+                       .section-4{
+                        padding:25px 7px ;
+                     }
+                     .advlist{
+                        margin-bottom: 10px;
+                     }
+                     .email{
+                        font-size: 14px !important;
+                     }
+                     .loc-arrow{
+                        font-size: 17.5px !important;
+                        width: 27px;
+                     }
+                     .advlist i{
+                        font-size: 18px;
+                        padding: 7px;
+                     }
+                     .footer{
+                        text-align: center !important;
+                        padding-bottom: 5px !important;
+                     }
+                     .footer .para{
+                        margin: 0px !important;
+                     }
+                     .feature{
+                        margin-top: 10px;
+                     }
+                     .feature p{
+                        margin-bottom: 4px;
+                     }
+                     .tags{
+                        margin-top: 10px;
+                     }
+                     .tags a button{
+                        font-size: 14px;
+                        margin-bottom: 10px;
+                     }
+                    .post{
+                        margin-top: 10px;
+                    }
+                    .post img{
+                        padding: 5px;
+                    }
+                    .logo{
+                    margin-bottom: 15px !important;
+                    }
+                    #para{
+                        font-size: 14px !important;
+                        text-align: justify !important;
+                        word-spacing: 3px !important;
+                    }
+                    .card .carousel-item {
+                        min-height: 70px !important;
+                    }
+                    .awe-area{
+                        height: 220px !important;
+                    }
+                    .r-icon, .l-icon{
+                        font-size: 12px !important;
+                    }
+                    }
+                    
+                    
+                    @media (min-width: 768px){
+                    .navbar-collapse.collapse {
+                    
+                        height: auto!important;
+                        padding-bottom: 0;
+                        overflow: visible!important;
+                    }
+                    }
+                    
+                                                 /* min-width:  576px */
+                    @media (min-width: 575.98px){ 
+                        /* .adv{
+                            bottom:80px !important;
+                            letter-spacing: 4px;
+                        } */
+                      
+                    }
+                    
+                    /* @media (min-width: 767.98px )and(max-width:768px){
+                        .navbar-collapse{
+                            display: none;
+                        }
+                    } */
+                    
+                                                /* max-width: 768px */
+                    
+                    @media (max-width: 768px){
+                        .navbar-collapse{
+                            padding-left: 5px !important;
+                        }
+                        .list li a {
+                            font-size: 16px !important;
+                            padding: 7px 0px !important;
+                            margin-right: 0px !important;
+                        }
+                        .adv{
+                            bottom: 54px;
+                            letter-spacing: 4px;
+                        }
+                        .adv h1{
+                            font-weight: bold;
+                            font-size: 45px ;
+                        }
+                        .adv p{
+                            font-size: 8px ;
+                        }
+                        .adv button{
+                            background-color: #ec4848;
+                            font-size: 14px ;
+                            border:none;
+                            color: white;
+                            padding: 7px 14px;
+                            margin-top: 10px;
+                        }
+                        .text{
+                            padding: 0 25px;
+                           }
+                        .accordion{
+                            margin-bottom: 15px;
+                         }
+                         .service{
+                            margin-bottom: 15px;
+                        }
+                        .service h3{
+                            font-size: 17px !important;
+                        }
+                        .service p{
+                            font-size: 14px !important;
+                        }
+                        .service button{
+                            font-size: 16px;
+                            padding: 5px 8px !important; 
+                        }
+                        .bttn{
+                            /* margin-top: 10px !important; */
+                        }
+                        .join{
+                            padding: 30px 30px;
+                            font-size: 15px;
+                            margin-top: 40px;
+                        }
+                        .fa-user-plus{
+                            font-size: 45px;
+                            margin-bottom: 15px;
+                        }
+                        .join h2{
+                            margin-bottom: 15px;
+                            font-size: 23px;
+                        }
+                        .join button{
+                            font-size: 15px;
+                            padding: 8px 10px;
+                        }
+                        .progress{
+                            margin-bottom: 15px;
+                         }
+                         .text{
+                            margin: 40px 0px;
+                         }
+                         .text h2{
+                            font-size: 26px;
+                            margin-bottom: 20px;
+                         }
+                         .text p{
+                            font-size: 15px;
+                         }
+                         .heading2 {
+                            margin-top: 40px !important;
+                            margin-bottom: 30px;
+                        }
+                        .heading3{
+                        margin-top: 50px;
+                        }
+                        .offer{
+                            margin-top: -12px;
+                        }
+                        .off_area{
+                            margin-bottom: 12px;
+                        }
+                        .tech{
+                            margin-bottom: 10px !important;
+                        }
+                        .clm{
+                            padding: 20px 10px;
+                        }
+                        .clm i{
+                            font-size: 30px;
+                            margin-bottom: 10px;
+                        }
+                        .clm p{
+                            font-size: 7px;
+                            letter-spacing:3px;
+                        }
+                        #h1{
+                            font-size: 28px;
+                            margin-bottom: 17px !important;
+                        }
+                        .heading2{
+                            padding:0px 20px ;
+                        }
+                        .heading2 h3{
+                            margin-bottom: 15px;
+                            padding: 0px;
+                        }
+                        .overlay{
+                            padding: 9px;
+                            height: 40%;
+                        }
+                        .overlay h2{
+                            font-size: 14px ;
+                            margin-bottom: 3px;
+                          }
+                          .overlay p{
+                            font-size: 12px ;
+                          }
+                          .overlay i{
+                            padding: 2px;
+                            font-size: 14px;
+                            line-height: 3px;
+                          }
+                          .filter p{
+                            font-size: 13px;
+                          }
+                          /* .filter-button{
+                            margin-bottom:10px;
+                          } */
+                          .subscribe{
+                            font-size: 18px;
+                           }
+                           .subscribe{
+                            font-size: 14px !important;
+                           }
+                           .email{
+                            font-size: 14px !important;
+                         }
+                         .loc-arrow{
+                            font-size: 17.5px !important;
+                            width: 27px;
+                         } 
+                         .section-4{
+                            padding:30px 0px;
+                         }
+                         .advlist h1{
+                            font-size: 25px;
+                         }
+                         .advlist p{
+                            font-size: 13px;
+                            padding: 7px;
+                         }
+                         .advlist i{
+                            font-size: 16px;
+                            padding: 3px;
+                         }
+                         .feature p{
+                            font-size: 13px;
+                            padding-top: 5px;
+                         }
+                         .tags a button{
+                            font-size: 14px;
+                            margin-bottom:10px;
+                         }
+                         .footer{
+                            padding-bottom: 7px;
+                         }
+                         .footer .para{
+                           margin-left: 190px;
+                         }
+                         .foot{
+                            text-align: center;
+                         }
+                         .logo{
+                            margin-bottom: 30px;
+                            }
+                         .team{
+                             margin-top: 40px;
+                        }
+                        .heading3{
+                            margin-bottom: 17px !important;
+                        }     
+                        #para{
+                            font-size: 14px !important;
+                            text-align: center;
+                            word-spacing: 3px;
+                        }
+                        .card .carousel-item {
+                            min-height: 110px;
+                        }
+                        .awe-area{
+                            height: 175px;
+                        }
+                        .r-icon, .l-icon{
+                            font-size: 12px;
+                        }
+                        .awesome-sec{
+                            margin-top: 35px !important;
+                        }
+                    
+                    } 
+                    
+                        /* @media (min-width: 768px){
+                    .navbar-collapse.collapse {
+                        display: none;
+                        height: auto!important;
+                        padding-bottom: 0;
+                        overflow: visible!important;
+                    }
+                        } */
+                    
+                    
+                                                /* min-width: 992px */
+                    
+                    @media (min-width: 992px) { 
+                        .navbar-collapse{
+                            padding-left: 170px !important  ;
+                        }
+                        .list li a {
+                            font-size: 16px !important;
+                            padding: 7px 0px !important;
+                            margin-right: 13px !important;
+                        }
+                        .adv{
+                            bottom: 83px;
+                            letter-spacing: 5px;
+                        }
+                        .adv h1{
+                            font-size: 50px;
+                        }
+                        .join{
+                            padding: 50px 180px;
+                            font-size: 15px;
+                        }
+                        .service h5{
+                            font-size: 15px !important;
+                        }
+
+                        .heading2{
+                            padding:0px 100px ;
+                        }
+                        .heading2 h3{
+                            margin-bottom: 15px;
+                            padding: 0px;
+                           
+                        }
+                        .overlay{
+                            padding: 9px;
+                            height: 30%;
+                        }
+                        .overlay h2{
+                            font-size: 17px;
+                            margin-bottom: 3px;
+                          }
+                          .overlay p{
+                            font-size: 14px;
+                          }
+                          .overlay i{
+                            padding: 2px;
+                            font-size: 14px;
+                            line-height: 3px;
+                          }
+                          .advlist p{
+                            font-size: 14px;
+                            padding: 7px;
+                         }
+                         .advlist i{
+                            font-size: 15px;
+                            padding: 7px;
+                         }
+                         .feature p{
+                            padding-top:7px ;
+                         }
+                         .tags a button{
+                            margin: 5px;
+                         }
+                         .post img{
+                            padding: 2px;
+                         }
+                    } 
+                        
+                    
+                                             /* min-width:1200px */
+                    
+                    @media (min-width: 1200px){
+                        .navbar-collapse{
+                            padding-left: 350px !important  ;
+                        }
+                        .list li a {
+                            font-size: 16px !important;
+                            padding: 7px 0px !important;
+                            margin-right: 15px !important;
+                        }
+                        .adv{
+                            bottom: 170px;
+                            letter-spacing: 5px;
+                        }
+                        .join{
+                            padding:50px 370px ;
+                        }
+                        .heading2{
+                            padding:0px 210px ;
+                        }
+                        .overlay{
+                            height: 37%;
+                        }
+                        .overlay h2{
+                            font-size: 20px;
+                            margin-bottom: 10px;
+                          }
+                          .overlay p{
+                            font-size: 16px;
+                            /* padding: 3px; */
+                          }
+                          .overlay i{
+                            padding: 5px;
+                            font-size: 17px;
+                            line-height: 7px;
+                          }
+                    
+                     }
